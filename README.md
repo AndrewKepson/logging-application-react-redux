@@ -1,3 +1,6 @@
+---
+permalink: /index.html
+---
 # IT Logging Application
 
 This is a demo project designed to expand my familiarity with react-redux and utilizing redux for application-level state management.
