@@ -1,5 +1,6 @@
 {
   "name": "it-logger",
+  "homepage": "https://andrewkepson.github.io/logging-application-react-redux/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
